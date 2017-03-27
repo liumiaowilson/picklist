@@ -11,3 +11,6 @@
 5. For the sake of demonstration, the data is persisted and loaded in the session storage through the exposed apis of the custom directive.
 
 6. Simple test cases are run on karma and jasmine.
+
+Here is the online demo: [picklist](https://world-wilsonlovecoco.rhcloud.com/demo/picklist).
+
