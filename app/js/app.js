@@ -84,6 +84,7 @@ function init() {
             return item.value;
         });
         sessionStorage.selections = angular.toJson(selections);
+        alert("Selections saved to session storage.");
     };
     $scope.internalControl.load = function() {
         // Load from session storage
