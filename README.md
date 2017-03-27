@@ -2,7 +2,7 @@
 
 1. This picklist accepts data of groups.json and features.json, and shows two multiple selection list with "move-to-left" and "move-to-right" buttons.
 
-2. It is based on angularjs and bootstrap.
+2. It is based on angularjs and bootstrap, and a custom directive is implemented to encapsulate the generic picklist.
 
 3. The json files are loaded using ajax calls, so a http server should be started to view the demo.
 
