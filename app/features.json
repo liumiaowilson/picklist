@@ -1,0 +1,62 @@
+[
+    {
+        "active": true,
+        "label": "Air Conditioning",
+        "validFor": 0,
+        "value": "Air Conditioning"
+    },
+    {
+        "active": true,
+        "label": "Alarm System",
+        "validFor": 0,
+        "value": "Alarm System"
+    },
+    {
+        "active": true,
+        "label": "Bath",
+        "validFor": 0,
+        "value": "Bath"
+    },
+    {
+        "active": true,
+        "label": "Broadband internet access",
+        "validFor": 0,
+        "value": "Broadband internet access"
+    },
+    {
+        "active": true,
+        "label": "Builtin wardrobes",
+        "validFor": 0,
+        "value": "Builtin wardrobes"
+    },
+    {
+        "active": true,
+        "label": "Balcony",
+        "validFor": 1,
+        "value": "Balcony"
+    },
+    {
+        "active": true,
+        "label": "Courtyard",
+        "validFor": 1,
+        "value": "Courtyard"
+    },
+    {
+        "active": true,
+        "label": "Deck",
+        "validFor": 1,
+        "value": "Deck"
+    },
+    {
+        "active": true,
+        "label": "Double glazed window",
+        "validFor": 2,
+        "value": "Double glazed window"
+    },
+    {
+        "active": true,
+        "label": "Energy efficient appliances",
+        "validFor": 2,
+        "value": "Energy efficient appliances"
+    }
+]

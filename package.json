@@ -1,0 +1,23 @@
+{
+  "name": "picker",
+  "version": "1.0.0",
+  "description": "a simple picklist based on angularjs",
+  "main": "index.html",
+  "scripts": {},
+  "keywords": [
+    "picklist",
+    "angularjs"
+  ],
+  "author": "Wilson Miao Liu",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.6.3",
+    "angular-mocks": "^1.6.3",
+    "http-server": "^0.9.0",
+    "jasmine": "^2.5.3",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.5.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0"
+  }
+}

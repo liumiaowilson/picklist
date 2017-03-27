@@ -1,0 +1,20 @@
+[
+    {
+        "active": true,
+        "label": "INDOOR",
+        "validFor": null,
+        "value": "INDOOR"
+    },
+    {
+        "active": true,
+        "label": "OUTDOOR",
+        "validFor": null,
+        "value": "OUTDOOR"
+    },
+    {
+        "active": true,
+        "label": "ECO",
+        "validFor": null,
+        "value": "ECO"
+    }
+]

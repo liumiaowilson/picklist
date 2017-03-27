@@ -1,0 +1,36 @@
+.picklist {
+    width: 100%;
+}
+
+.picklist .all-group {
+    margin: 10px;
+}
+
+.picklist .all-group button {
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 0px solid transparent;
+    background-color: initial;
+}
+
+.picklist .all-group button.selected-group {
+    background-color: dodgerblue;
+}
+
+.picklist .panel {
+    display: flex;
+}
+
+.picklist .panel select {
+    min-width: 220px;
+    overflow-y: scroll;
+}
+
+.picklist .panel .buttons {
+    display: flex;
+    flex-direction: column;
+}
+
+.picklist .panel .buttons span {
+    padding: 15px 40px 15px 40px;
+}
